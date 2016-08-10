@@ -1,0 +1,88 @@
+
+
+
+
+.section-camera .pic-a {
+	    background-size: 500px !important;
+	    width: 180px !important;
+	    height: 420px !important;
+	    background-position: -178px 0px !important;
+	    left: 188px !important;
+	    top: 30px !important;
+}
+
+.section-camera .pic-a .border-line {
+    left: 90px !important;
+}
+.section-camera .pic-a .circle-text {
+    left: 10px !important;
+    bottom: -80px !important;
+
+    }
+
+.section-camera .pic-b {
+	    background-size: 500px !important;
+	    width: 180px !important;
+	    height: 420px !important;
+	    background-position: -178px -420px !important;
+	    left: 408px !important;
+	    top: 30px !important;
+}
+
+.section-camera .pic-b .border-line {
+    left: 90px !important;
+}
+.section-camera .pic-b .circle-text {
+    left: 20px !important;
+    }
+.section-camera .pic-b .circle {
+    margin-left: -15px !important;
+}
+
+
+
+.section-camera .pic-c {
+	    background-size: 500px !important;
+	    width: 180px !important;
+	    height: 420px !important;
+	    background-position: -178px -840px !important;
+	    left: 628px !important;
+	    top: 30px !important;
+	}
+.section-camera .pic-c .border-line {
+    left: 90px !important;
+}
+.section-camera .pic-c .circle-text {
+    left: 20px !important;
+    }
+
+	.section-camera .pic-d {
+	    background-size: 500px !important;
+	    width: 180px !important;
+	    height: 420px !important;
+	    background-position: -178px -1260px !important;
+	    left: 848px !important;
+	    top: 30px !important;
+	}
+
+	.section-camera .pic-d .border-line {
+    left: 90px !important;
+}
+.section-camera .pic-d .circle-text {
+    left: 20px !important;
+    }
+	.section-camera .pic-e {
+	    background-size: 500px !important;
+	    width: 180px !important;
+	    height: 420px !important;
+	    background-position: -178px -1680px !important;
+	    left: 1068px !important;
+	    top: 30px !important;
+	}
+	.section-camera .pic-e .border-line {
+    left: 90px !important;
+}
+.section-camera .pic-e .circle-text {
+    left: 20px !important;
+    }
+
